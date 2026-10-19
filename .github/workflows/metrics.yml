@@ -15,7 +15,7 @@ jobs:
           template: classic
           filename: github-metrics.svg
           base: ""
-          config_timezone: Canada
+          config_timezone: America/Toronto
           repositories: 100
           repositories_forks: yes
           repositories_affiliations: owner, collaborator, organization_member
